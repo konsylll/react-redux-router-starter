@@ -2,5 +2,4 @@
 Instant react, redux, react-router with example
 
 # Run
-npm install
-npm start
+npm install && npm start
